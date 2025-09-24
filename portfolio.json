@@ -1,0 +1,97 @@
+{
+    "name": "Jeganathan I",
+    "email": "jegan4044@gmail.com",
+    "phone": "+91 99527 65981",
+    "portfolio": "jegenathan.portfolio",
+    "objective": "Final year B.Tech student at Manakula Vinayagar Institute of Technology, specializing in MERN stack development. Currently focusing on mastering Java Data Structures and Algorithms (DSA) and expanding backend skills in technologies like Node.js and Express.js. Passionate about building efficient, scalable web applications and continuously learning new technologies.",
+    "technical_summary": {
+        "Language": [
+            "Python",
+            "Java",
+            "Javascript"
+        ],
+        "MERN Stack": [
+            "MongoDB",
+            "Express.js",
+            "React.js",
+            "Node.js"
+        ],
+        "Frontend": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Tailwind CSS"
+        ],
+        "Backend": [
+            "REST APIs",
+            "MongoDB Atlas",
+            "JWT Auth",
+            "Flask"
+        ],
+        "Version Control": [
+            "Git",
+            "GitHub"
+        ],
+        "Design Tools": [
+            "CapCut",
+            "PicsArt",
+            "Canva"
+        ],
+        "Development Tools": [
+            "Postman",
+            "Git",
+            "Docker"
+        ],
+        "OS": [
+            "Windows",
+            "Linux"
+        ]
+    },
+    "education": [
+        {
+            "institution": "Manakula Vinayagar Institute of Technology, Puducherry",
+            "degree": "B.Tech in AI & ML",
+            "year": "July 2026"
+        },
+        {
+            "institution": "Government Higher Secondary School, Thirunallar",
+            "degree": "HSC",
+            "year": "July 2022"
+        },
+        {
+            "institution": "Cauvery Public School, Neravy",
+            "degree": "SSLC",
+            "year": "July 2020"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Netflix Clone (Frontend)",
+            "description": "Built with React.js and Tailwind CSS, featuring a responsive design and modern UI. Published on LinkedIn as a showcase of frontend development skills.",
+            "technologies": [
+                "React.js",
+                "Tailwind CSS"
+            ]
+        },
+        {
+            "name": "Diabetes Prediction System (Mini Project)",
+            "description": "Led a team to develop a diabetes risk predictor using Python and machine learning. Utilized NumPy, Pandas, Scikit-Learn, and Matplotlib for data preprocessing, model training, and visualization.",
+            "technologies": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "Scikit-Learn",
+                "Matplotlib"
+            ]
+        },
+        {
+            "name": "Food Ordering System (Frontend)",
+            "description": "Built a food ordering web application using React.js, fetching data from a dummy JSON API.",
+            "technologies": [
+                "React.js",
+                "JavaScript",
+                "CSS"
+            ]
+        }
+    ]
+}

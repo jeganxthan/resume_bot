@@ -1,0 +1,13 @@
+Flask
+Flask-JWT-Extended
+python-dotenv
+flask_sqlalchemy
+flask_cors
+flask_jwt_extended
+requests
+Flask-Mail
+Flask-SQLAlchemy
+python-docx
+pypdf2
+psycopg2
+psycopg2-binary
