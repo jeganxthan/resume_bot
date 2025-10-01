@@ -11,3 +11,6 @@ python-docx
 pypdf2
 psycopg2
 psycopg2-binary
+Flask-SocketIO
+eventlet
+websocket-client

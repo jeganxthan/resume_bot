@@ -7,6 +7,7 @@ from flask_jwt_extended import JWTManager
 import os
 from dotenv import load_dotenv
 from controllers.gemini_controller import gemini_bp
+from socket_server import socketio  # import socketio
 
 def create_app():
     load_dotenv()
@@ -33,12 +34,11 @@ def create_app():
 
     app.register_blueprint(auth_bp)
     app.register_blueprint(gemini_bp)
-    
+
     with app.app_context():
         db.create_all()
 
-    return app
+    # **Attach socketio to app**
+    socketio.init_app(app)
 
-if __name__ == '__main__':
-    app = create_app()
-    app.run(debug=True)
+    return app
